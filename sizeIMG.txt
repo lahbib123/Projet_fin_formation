@@ -1,0 +1,2 @@
+SHOW VARIABLES LIKE 'max_allowed_packet'
+SET GLOBAL max_allowed_packet=1048576000
